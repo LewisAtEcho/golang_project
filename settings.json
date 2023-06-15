@@ -1,0 +1,10 @@
+{
+  "file_size_limit": 1000000000,
+  "total_files": -1,
+  "timeout_limit": 300,
+  "directory_to_scan": "C:\\Users\\Lewis\\Downloads",
+  "file_types": [
+    ".exe",
+    ".dll"
+  ]
+}
